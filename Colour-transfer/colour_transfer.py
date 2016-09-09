@@ -1,14 +1,3 @@
-# Import necessary libraries
-import numpy as np
-import cv2
-
-def color_transfer(source, target):
-	# convert the images from the RGB to L*ab* color space, being
-	# sure to utilizing the floating point data type (note: OpenCV
-	# expects floats to be 32-bit, so use that instead of 64-bit)
-	source = cv2.cvtColor(source, cv2.COLOR_BGR2LAB).astype("float32")
-	target = cv2.cvtColor(target, cv2.COLOR_BGR2LAB).astype("float32")
-    # import the necessary packages
 import numpy as np
 import cv2
 
@@ -53,3 +42,16 @@ def color_transfer(source, target):
 
 	# return the color transferred image
 	return transfer
+
+# Function to compute the statistics for each of the l, a, and b channels
+# Assume the input image is already in l * a * b form
+def image_stats(image):
+	# compute the mean, standard deviations of the input channels
+	(l, a, b) = cv2.split(image)
+
+	(lmean, lstd) = (l.mean(), l.std())
+	(amean, astd) = (a.mean(), a.std())
+	(bmean, bstd) = (b.mean(), b.std())
+
+	# return the colour statistics
+	return (lmean, lstd, amean, astd, bmean, bstd)
