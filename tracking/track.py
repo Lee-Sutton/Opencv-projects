@@ -48,3 +48,6 @@ def main():
     # along with the bounding box of the ROI
     termination = (cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 1)
     roiBox = None
+
+if __name__ == '__main__':
+    main()
