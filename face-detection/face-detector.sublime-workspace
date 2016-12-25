@@ -1,0 +1,1147 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"face",
+				"faceCascadePath"
+			],
+			[
+				"cv",
+				"cv2\tmodule"
+			],
+			[
+				"Base",
+				"Base"
+			],
+			[
+				"dec",
+				"declarative_base\tfunction"
+			],
+			[
+				"reat",
+				"relationship\tstatement"
+			],
+			[
+				"d",
+				"declarative_base\timport"
+			],
+			[
+				"For",
+				"ForeignKey\tclass"
+			],
+			[
+				"the",
+				"the_row_titles\t(viewlog.html)"
+			],
+			[
+				"rend",
+				"render_template\tfunction"
+			],
+			[
+				"log",
+				"log_file"
+			],
+			[
+				"readlin",
+				"readlines\tfunction"
+			],
+			[
+				"esc",
+				"escape\tfunction"
+			],
+			[
+				"req",
+				"request\tinstance"
+			],
+			[
+				"redi",
+				"redirect\tfunction"
+			],
+			[
+				"re",
+				"render_template\tfunction"
+			],
+			[
+				"redn",
+				"render_template\tfunction"
+			],
+			[
+				"rou",
+				"route"
+			],
+			[
+				"sea",
+				"search4letters\tfunction"
+			],
+			[
+				"Templa",
+				"DjangoTemplates"
+			],
+			[
+				"hou",
+				"hours_ahead"
+			],
+			[
+				"htt",
+				"https\t(settings.py)"
+			],
+			[
+				"timin",
+				"timing_filename"
+			],
+			[
+				"tria",
+				"trial_number"
+			],
+			[
+				"write",
+				"write_timings_to"
+			],
+			[
+				"cur",
+				"current_sensor_timing"
+			],
+			[
+				"ti",
+				"temp_pressure_timing"
+			],
+			[
+				"CUre",
+				"Current3"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"CUrr",
+				"Current2"
+			],
+			[
+				"curr",
+				"current_sensor"
+			],
+			[
+				"get",
+				"get_updated_readings"
+			],
+			[
+				"up",
+				"update_fig"
+			],
+			[
+				"Pre",
+				"Pressure3"
+			],
+			[
+				"Press",
+				"Pressure2"
+			],
+			[
+				"pre",
+				"Pressure1"
+			],
+			[
+				"upd",
+				"update_readings"
+			],
+			[
+				"my",
+				"my_website"
+			],
+			[
+				"exper",
+				"experiment"
+			],
+			[
+				"star",
+				"start_recording\tfunction"
+			],
+			[
+				"data",
+				"DataAquisition\tclass"
+			],
+			[
+				"temp_press",
+				"temp_pressure_serial\tparam"
+			],
+			[
+				"current_s",
+				"current_serial\tparam"
+			],
+			[
+				"tr",
+				"trial_number"
+			],
+			[
+				"temp",
+				"temp_pressure_sensor"
+			],
+			[
+				"picam",
+				"picam_timing"
+			],
+			[
+				"webca",
+				"webcam_timing"
+			],
+			[
+				"webcam",
+				"webcam_timing_recorded"
+			],
+			[
+				"picam_timing",
+				"picam_timing_recorded"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"ful",
+				"fullName"
+			],
+			[
+				"video",
+				"video_object"
+			],
+			[
+				"ini",
+				"initialize_cameras"
+			],
+			[
+				"vide",
+				"video_object"
+			],
+			[
+				"pica",
+				"picam_printed"
+			],
+			[
+				"picam_",
+				"picam_is_recording"
+			],
+			[
+				"serial",
+				"serial_port\t(threaded_data_aquisition.py)"
+			],
+			[
+				"updat",
+				"update_readings"
+			],
+			[
+				"feature",
+				"features_test"
+			],
+			[
+				"featu",
+				"features_train"
+			],
+			[
+				"filter",
+				"filtered_data"
+			],
+			[
+				"ser",
+				"serial_port"
+			],
+			[
+				"seria",
+				"serial"
+			],
+			[
+				"web",
+				"webcam_status"
+			],
+			[
+				"bau",
+				"baud_rate"
+			],
+			[
+				"curren",
+				"current_filename"
+			],
+			[
+				"Cur",
+				"CurrentSensor"
+			],
+			[
+				"current",
+				"current_sensor"
+			],
+			[
+				"cali",
+				"calibrated_Resistance\t(Current_sensor.cpp)"
+			],
+			[
+				"Cal",
+				"calibrated_Resistance"
+			],
+			[
+				"calib",
+				"calibrated_R\t(Current_sensor.h)"
+			],
+			[
+				"loc",
+				"loc='upper\t(live_plotting.py)"
+			],
+			[
+				"update",
+				"update_fig"
+			],
+			[
+				"p",
+				"plot"
+			],
+			[
+				"pl",
+				"plot\t(TempPressureStream.py)"
+			],
+			[
+				"e",
+				"except"
+			],
+			[
+				"start",
+				"start_plotting"
+			],
+			[
+				"plt",
+				"plt.ylim"
+			],
+			[
+				"plo",
+				"plotting"
+			],
+			[
+				"ard",
+				"arduinoData"
+			],
+			[
+				"pa",
+				"pause\t(live_plotting.py)"
+			],
+			[
+				"Temp",
+				"Temperature1"
+			],
+			[
+				"thread",
+				"threaded_data_aq"
+			],
+			[
+				"featur",
+				"features_test"
+			],
+			[
+				"label",
+				"labels_test"
+			],
+			[
+				"acc",
+				"accuracy_score"
+			],
+			[
+				"Temperature",
+				"Temperature3"
+			],
+			[
+				"Te",
+				"Temperature1"
+			],
+			[
+				"Thread",
+				"Threaded_Serial"
+			],
+			[
+				"Threade",
+				"Threaded_Serial\t(threaded_data_aquisition.py)"
+			],
+			[
+				"predict",
+				"predictions"
+			],
+			[
+				"predic",
+				"predictions"
+			],
+			[
+				"clf",
+				"clf.predict"
+			],
+			[
+				"Thre",
+				"Threaded_Serial"
+			],
+			[
+				"featre",
+				"features_test"
+			],
+			[
+				"c",
+				"clf"
+			],
+			[
+				"labe",
+				"labels_test"
+			],
+			[
+				"accu",
+				"accuracy_score\t(nb_author_id.py)"
+			],
+			[
+				"fea",
+				"features_test"
+			],
+			[
+				"feat",
+				"features_test"
+			],
+			[
+				"lab",
+				"labels_test"
+			],
+			[
+				"threa",
+				"threaded_arduino"
+			],
+			[
+				"read",
+				"readline"
+			],
+			[
+				"min",
+				"minIndex"
+			],
+			[
+				"inpu",
+				"inputList"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"inp",
+				"inputList"
+			],
+			[
+				"order",
+				"orderList"
+			],
+			[
+				"frui",
+				"fruitShops"
+			],
+			[
+				"fru",
+				"fruitPrices"
+			],
+			[
+				"string",
+				"string_list"
+			],
+			[
+				"strin",
+				"string_list"
+			],
+			[
+				"test",
+				"test_string"
+			],
+			[
+				"ra",
+				"radius_list"
+			],
+			[
+				"positio",
+				"position_data"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"sto",
+				"stop_recording\t(webcam.py)"
+			],
+			[
+				"st",
+				"stop"
+			],
+			[
+				"stop",
+				"stop_recording"
+			],
+			[
+				"Web",
+				"WebcamStream"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Lee/MOOCS/Web-Development/flask-projects/blog/app/config.py",
+			"settings":
+			{
+				"buffer_size": 84,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Lee/MOOCS/Web-Development/flask-projects/blog/app/app.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"aut",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"vir",
+				"Virtualenv: Activate"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"atu",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"virtu",
+				"Virtualenv: Activate"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add cur",
+				"Git: Add Current File"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"git add curr",
+				"Git: Add Current File"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"sublime pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indta",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"te",
+				"Terminal: Open"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"t",
+				"Terminal: Open"
+			],
+			[
+				"repl pytho",
+				"SublimeREPL: Python"
+			],
+			[
+				"view ",
+				"View: Toggle Tabs"
+			],
+			[
+				"repl pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"virt",
+				"Virtualenv: Activate"
+			],
+			[
+				"sublimeR",
+				"Virtualenv: SublimeREPL - Python"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Lee/MOOCS/OpenCV-Projects/face-detection"
+	],
+	"file_history":
+	[
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/blog/app/app.py",
+		"/Users/Lee/MOOCS/OpenCV-Projects/face-detection/face-detector.sublime-project",
+		"/Users/Lee/MOOCS/OpenCV-Projects/face-detection/face_detection.py",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/Menu_app/database_setup.py",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/Hello_flask/hello_flask.py",
+		"/Users/Lee/MOOCS/Web-Development/Head-first-python/hfpy2e-all/ch06/webapp/templates/viewlog.html",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/Hello_flask/templates/viewlog.html",
+		"/usr/local/mysql-5.7.17-macos10.12-x86_64/README",
+		"/private/etc/my.cnf",
+		"/etc/hostconfig",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/Head-first-python/hfpy2e-all/ch05/dunder.py",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/Head-first-python/hfpy2e-all/ch05/hello_flask.py",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/Head-first-python/hfpy2e-all/ch05/templates/base.html",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/Head-first-python/hfpy2e-all/ch05/static/hf.css",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/Head-first-python/hfpy2e-all/ch05/templates/entry.html",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/Head-first-python/hfpy2e-all/ch05/templates/results.html",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/Test-scripts/pyqt_proto2.py",
+		"/Users/Lee/Fluid_actuator_trials/Dec8/temp_pressure04.csv",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/Test-scripts/pyqt_prototying.py",
+		"/Users/Lee/Fluid_actuator_trials/Dec2/temp_pressure2.csv",
+		"/Users/Lee/MOOCS/Spark_and_hadoop/Spark-tutorials/Chapter2-Getting_started/test.txt",
+		"/Users/Lee/Fluid_actuator_trials/Dec2/temp_pressure3.csv",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/hello-app/hello.py",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/main_data_aquisition.py",
+		"/Users/Lee/.vimrc",
+		"/Users/Lee/MOOCS/Web-Development/django-projects/trydjango/db.sqlite3",
+		"/Users/Lee/MOOCS/Web-Development/django-projects/my_website/my_website/settings.py",
+		"/Users/Lee/Fluid_actuator_trials/Nov21/temp_pressure1.csv",
+		"/Users/Lee/MOOCS/Web-Development/django-projects/my_website/my_website/views.py",
+		"/Users/Lee/MOOCS/Web-Development/django-projects/my_website/views.py",
+		"/Users/Lee/Fluid_actuator_trials/Nov17/temp_pressure1.csv",
+		"/Users/Lee/Fluid_actuator_trials/Nov17/timing1.csv",
+		"/Users/Lee/MOOCS/OpenCV-Projects/histograms/grayscale_histogram.py",
+		"/Users/Lee/MOOCS/Deep-Learning/mastering-keras-tutorial/keras-tutorial.py",
+		"/Users/Lee/MOOCS/Deep-Learning/mastering-keras-tutorial/pima-indians-diabetes.csv",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/threaded_data_aquisition.py",
+		"/Users/Lee/Fluid_actuator_trials/Nov17/README.md",
+		"/Users/Lee/MOOCS/Practical-python-OpenCV/Books/Practical Python and OpenCV, 3rd Edition/code/chapter-06/translation.py",
+		"/Users/Lee/MOOCS/Practical-python-OpenCV/Books/Practical Python and OpenCV, 3rd Edition/code/chapter-06/imutils.py",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/raspi_communication.py",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/TempPressureStream.py",
+		"/Users/Lee/Masters/Fluid-Actuator/Code/vision-tracking/motion-tracking/ball_tracking.py",
+		"/Users/Lee/MOOCS/OpenCV-Projects/tracking/track.py",
+		"/Users/Lee/MOOCS/OpenCV-Projects/Skin-detection/skindetection.py",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/CurrentSensorStream.py",
+		"/Users/Lee/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Lee/MOOCS/Practical-python-OpenCV/Books/Practical Python and OpenCV, 3rd Edition/code/chapter-05/drawing.py",
+		"/Users/Lee/MOOCS/Practical-python-OpenCV/Books/Practical Python and OpenCV, 3rd Edition/code/chapter-04/getting_and_setting.py",
+		"/Users/Lee/MOOCS/Web-Development/django-projects/my_website/my_website/urls.py",
+		"/Users/Lee/Fluid_actuator_trials/Nov9/trial3.csv",
+		"/Users/Lee/.keras/keras.json",
+		"/Users/Lee/MOOCS/OpenCV-Projects/keras_deep_learning/simple_neural_network.py",
+		"/Users/Lee/MOOCS/Web-Development/rails-projects/mebay/app/controllers/ads_controller.rb",
+		"/Users/Lee/MOOCS/Web-Development/rails-projects/mebay/app/views/ads/show.html.erb",
+		"/Users/Lee/MOOCS/Web-Development/rails-projects/mebay/config/routes.rb",
+		"/Users/Lee/MOOCS/Web-Development/django-projects/mysite/manage.py",
+		"/Users/Lee/MOOCS/Web-Development/django-projects/mysite/mysite/__init__.py",
+		"/Users/Lee/MOOCS/Machine-Learning/ud120-projects/svm/svm_author_id.py",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/test_file_new.csv",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/TempPressureStream.pyc",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/threaded_data_aquisition.pyc",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/CurrentSensorStream.pyc",
+		"/Users/Lee/MOOCS/Web-Development/flask-projects/hello-app/.gitignore",
+		"/Users/Lee/RaspiDAQ/RaspberryPi-scripts/video_recording_script.py",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/Test-scripts/PC-communication.py",
+		"/Users/Lee/MOOCS/Web-Development/node-projects/node-basics/hello_world.js",
+		"/Users/Lee/Documents/Unreal Projects/Room_escape/.gitignore",
+		"/Users/Lee/Library/Application Support/Sublime Text 3/Packages/User/nodejs.sublime-build",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/Raspi-communication.py",
+		"/Users/Lee/RaspiDAQ/RaspberryPi-scripts/video_recording.py",
+		"/Users/Lee/RaspiDAQ/Laptop-scripts/Test-scripts/Raspi-communication.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/previewing_both_cams.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/webcam.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/CurrentSensorStream.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/threaded_data_aquisition.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/Raspi-communication.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/PC-communication.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/3d_data_aq.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/TempPressureStream.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/webcam.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/current_reading.csv",
+		"/Users/Lee/MOOCS/Machine-Learning/ud120-projects/choose_your_own/your_algorithm.py",
+		"/Users/Lee/Sciprog/Machine-Learning/Lesson-plan.md",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/3d_data_aq.py~",
+		"/Users/Lee/MOOCS/Full-stack-development/1-CRUD/database_setup.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/test_file.csv",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/threaded_data_aquisition.pyc",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/webcam.pyc",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/Visualization-data-aq/webcam_test.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/threaded_data_aquisition.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/CurrentSensorStream.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/TempPressureStream.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/current_reading.csv",
+		"/Users/Lee/RaspiDAQ/CurrentSensor/voltage_read_to_current/Current_sensor.h",
+		"/Users/Lee/RaspiDAQ/CurrentSensor/voltage_read_to_current/voltage_read_to_current.ino",
+		"/Users/Lee/RaspiDAQ/CurrentSensor/voltage_read_to_current/Current_sensor.cpp",
+		"/Users/Lee/MOOCS/Machine-Learning/ud120-projects/decision_tree/dt_author_id.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/test_file.csv",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/aquire_data_backup.py",
+		"/Users/Lee/MOOCS/Machine-Learning/ud120-projects/tools/email_preprocess.py",
+		"/Users/Lee/Masters/Fluid-Actuator/Code/arduino-interface/live_plotting.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/test_file_new.csv",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/test_file",
+		"/Users/Lee/RaspiDAQ/Arduino_data_AQ/_3D_actuator_data/Sensor.cpp",
+		"/Users/Lee/RaspiDAQ/Arduino_data_AQ/_3D_actuator_data/Sensor.h",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/threaded_plotting_dataAQ.py",
+		"/Users/Lee/MOOCS/Machine-Learning/ud120-projects/naive_bayes/nb_author_id.py",
+		"/Users/Lee/Fluid_actuator_trials/Oct18/Plotting-notebook.py",
+		"/Users/Lee/Masters/Fluid-Actuator/Code/vision-tracking/motion-tracking/bending_actuator_tracking.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/PC-communication.py",
+		"/Users/Lee/RaspiDAQ/3D-data-aquisition/3d_data_aq.py",
+		"/Users/Lee/Masters/Fluid-Actuator/Code/arduino-interface/python_arduino.py",
+		"/Users/Lee/Masters/Fluid-Actuator/Code/arduino-interface/live_plot",
+		"/Users/Lee/MOOCS/Machine-Learning/1-Naive-Bayes/Prototyping.py",
+		"/Users/Lee/RaspiDAQ/Arduino_data_AQ/_2D_actuator_data/_2D_actuator_data.ino",
+		"/Users/Lee/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/E69A65B1-F62D-4CEB-AD89-ADC11429B246/Temperature_Sensor.ino",
+		"/Users/Lee/Masters/Fluid-Actuator/Python-scripts/Raspi-serial/serialtest.py",
+		"/Users/Lee/Masters/Fluid-Actuator/Python-scripts/arduino-interface/python_arduino.py",
+		"/Users/Lee/Masters/Fluid-Actuator/Python-scripts/arduino-interface/data_aquisition.py",
+		"/Users/Lee/RaspiDAQ/Arduino_data_AQ/_3D_actuator_data/_3D_actuator_data.ino",
+		"/Users/Lee/Masters/Fluid-Actuator/Python-scripts/arduino-interface/Trial1.txt",
+		"/Users/Lee/MOOCS/188-CS-AI/Projects/0-Python-tutorial/buyLotsOfFruit.py",
+		"/Users/Lee/MOOCS/188-CS-AI/Projects/0-Python-tutorial/shop.py",
+		"/Users/Lee/MOOCS/188-CS-AI/Projects/0-Python-tutorial/shopSmart.py",
+		"/Users/Lee/MOOCS/188-CS-AI/Projects/1-Pacman_search/search/pacman.py",
+		"/Users/Lee/Fluid_actuator_trials/Oct14/trial2.csv",
+		"/Users/Lee/Masters/Fluid-Actuator/Python-scripts/Rasperry-pi-DAQ_backup/Data-Aquisition/data-aq-script.pdf",
+		"/Users/Lee/Masters/Fluid-Actuator/Python-scripts/vision-tracking/motion-tracking/ball_tracking.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pyimage",
+			"'|'",
+			"stop",
+			"python",
+			"\t",
+			"    ",
+			"aquire_",
+			"threaded_data_aq",
+			"stop",
+			"threaded_data_aq",
+			"temp_pressure_sensor",
+			"make_fig",
+			"temperature_plot",
+			"makeFig",
+			"))\n",
+			"Temp_Press_dataStream(",
+			"Threaded_serial_plotter",
+			"print",
+			"26",
+			"ser_string",
+			"threaded_arduino",
+			"lower",
+			"DATA",
+			"start",
+			"self",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Lee/MOOCS/Web-Development/flask-projects/blog/app/config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Lee/MOOCS/Web-Development/flask-projects/blog/app/app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 94.0
+	},
+	"output.exec":
+	{
+		"height": 204.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 199.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "face-detector.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
