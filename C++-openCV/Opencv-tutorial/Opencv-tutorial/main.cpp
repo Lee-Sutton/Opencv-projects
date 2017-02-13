@@ -1,5 +1,6 @@
-// Function to change between color and grayscale representations of an image using a GUI trackbar
-// Author: Samarth Manoj Brahmbhatt, University of Pennsylvania
+// Program to filter images based on colour
+// Trackbar are used to interactively adjust the threshold limits
+// Author: Lee Sutton
 #include <iostream>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
